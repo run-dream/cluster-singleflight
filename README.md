@@ -1,0 +1,1 @@
+类似go 的single-flight, 用于处理 node 多进程的归并回源。
